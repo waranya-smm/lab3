@@ -1,0 +1,35 @@
+.h1 {
+    width: 100%;
+    
+    color: #362f2d;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.table {
+    width: 100%;
+    font-size: 30px;
+    color: #362f2d;
+    font-family: 'Montserrat', sans-serif;
+    padding: 30px;
+    text-align: right;
+    display: inline-block;
+}
+
+.row{
+    display: table;
+}
+
+.colum{
+    float: left;
+    width: 50%;
+}
+
+.box{
+    background-color: #f0ebe2;
+    padding: 720px;
+  
+}
+.t1{
+    margin-right: 50px;
+}
